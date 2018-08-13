@@ -1,0 +1,11 @@
+linkdin:
+https://fontawesome.com/icons/linkedin-in?style=brands
+
+google +
+https://fontawesome.com/icons/google-plus-g?style=brands
+
+fb:
+https://fontawesome.com/icons/facebook-f?style=brands
+
+twitter:
+https://fontawesome.com/icons/twitter?style=brands
